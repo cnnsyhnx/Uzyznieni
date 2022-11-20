@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8343762C292A42FB00EEC383 /* Mockup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8343762B292A42FB00EEC383 /* Mockup2.jpg */; };
+		8343762D292A42FB00EEC383 /* Mockup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8343762B292A42FB00EEC383 /* Mockup2.jpg */; };
+		8343762E292A42FB00EEC383 /* Mockup2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8343762B292A42FB00EEC383 /* Mockup2.jpg */; };
+		83437630292A431800EEC383 /* Mockup1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8343762F292A431800EEC383 /* Mockup1.png */; };
+		83437631292A431800EEC383 /* Mockup1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8343762F292A431800EEC383 /* Mockup1.png */; };
+		83437632292A431800EEC383 /* Mockup1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8343762F292A431800EEC383 /* Mockup1.png */; };
 		8349A8C02929442200D5B9C2 /* UzyznieniApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8349A8BF2929442200D5B9C2 /* UzyznieniApp.swift */; };
 		8349A8C42929442300D5B9C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8349A8C32929442300D5B9C2 /* Assets.xcassets */; };
 		8349A8C72929442300D5B9C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8349A8C62929442300D5B9C2 /* Preview Assets.xcassets */; };
@@ -160,6 +166,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8343762B292A42FB00EEC383 /* Mockup2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mockup2.jpg; sourceTree = "<group>"; };
+		8343762F292A431800EEC383 /* Mockup1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mockup1.png; sourceTree = "<group>"; };
 		8349A8BC2929442200D5B9C2 /* Uzyznieni.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Uzyznieni.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8349A8BF2929442200D5B9C2 /* UzyznieniApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UzyznieniApp.swift; sourceTree = "<group>"; };
 		8349A8C32929442300D5B9C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -240,9 +248,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8343762A292A428A00EEC383 /* Mockups */ = {
+			isa = PBXGroup;
+			children = (
+				8343762F292A431800EEC383 /* Mockup1.png */,
+				8343762B292A42FB00EEC383 /* Mockup2.jpg */,
+			);
+			path = Mockups;
+			sourceTree = "<group>";
+		};
 		8349A8B32929442200D5B9C2 = {
 			isa = PBXGroup;
 			children = (
+				8343762A292A428A00EEC383 /* Mockups */,
 				8349A8C32929442300D5B9C2 /* Assets.xcassets */,
 				83E72E4F292A3F660092FE12 /* Readme.md */,
 				8365D6FA29297F6300835F25 /* Fonts */,
@@ -485,6 +503,7 @@
 				8365D7522929812600835F25 /* Lora-Medium.ttf in Resources */,
 				8365D72229297F7B00835F25 /* Poppins-LightItalic.ttf in Resources */,
 				8365D73129297F7B00835F25 /* Poppins-Italic.ttf in Resources */,
+				83437630292A431800EEC383 /* Mockup1.png in Resources */,
 				83E72E50292A3F660092FE12 /* Readme.md in Resources */,
 				8365D73429297F7B00835F25 /* Poppins-ExtraLight.ttf in Resources */,
 				8365D71F29297F7B00835F25 /* Poppins-ExtraBold.ttf in Resources */,
@@ -497,6 +516,7 @@
 				8365D74C2929812600835F25 /* Lora-Regular.ttf in Resources */,
 				8365D73729297F7B00835F25 /* Poppins-BoldItalic.ttf in Resources */,
 				8365D71929297F7B00835F25 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				8343762C292A42FB00EEC383 /* Mockup2.jpg in Resources */,
 				8365D72E29297F7B00835F25 /* Poppins-ExtraLightItalic.ttf in Resources */,
 				8365D70D29297F7B00835F25 /* Poppins-MediumItalic.ttf in Resources */,
 				8365D75B2929812600835F25 /* Lora-BoldItalic.ttf in Resources */,
@@ -517,12 +537,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				8365D72F29297F7B00835F25 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				83437631292A431800EEC383 /* Mockup1.png in Resources */,
 				8365D75F2929812600835F25 /* Lora-Italic.ttf in Resources */,
 				8365D75C2929812600835F25 /* Lora-BoldItalic.ttf in Resources */,
 				8365D73B29297F7B00835F25 /* Poppins-ThinItalic.ttf in Resources */,
 				8365D71429297F7B00835F25 /* Poppins-SemiBold.ttf in Resources */,
 				8365D7562929812600835F25 /* Lora-SemiBoldItalic.ttf in Resources */,
 				8365D7592929812600835F25 /* Lora-Bold.ttf in Resources */,
+				8343762D292A42FB00EEC383 /* Mockup2.jpg in Resources */,
 				8365D74129297F7B00835F25 /* Poppins-Thin.ttf in Resources */,
 				8365D70E29297F7B00835F25 /* Poppins-MediumItalic.ttf in Resources */,
 				8365D71129297F7B00835F25 /* Poppins-Light.ttf in Resources */,
@@ -551,12 +573,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				8365D73029297F7B00835F25 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				83437632292A431800EEC383 /* Mockup1.png in Resources */,
 				8365D7602929812600835F25 /* Lora-Italic.ttf in Resources */,
 				8365D75D2929812600835F25 /* Lora-BoldItalic.ttf in Resources */,
 				8365D73C29297F7B00835F25 /* Poppins-ThinItalic.ttf in Resources */,
 				8365D71529297F7B00835F25 /* Poppins-SemiBold.ttf in Resources */,
 				8365D7572929812600835F25 /* Lora-SemiBoldItalic.ttf in Resources */,
 				8365D75A2929812600835F25 /* Lora-Bold.ttf in Resources */,
+				8343762E292A42FB00EEC383 /* Mockup2.jpg in Resources */,
 				8365D74229297F7B00835F25 /* Poppins-Thin.ttf in Resources */,
 				8365D70F29297F7B00835F25 /* Poppins-MediumItalic.ttf in Resources */,
 				8365D71229297F7B00835F25 /* Poppins-Light.ttf in Resources */,

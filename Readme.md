@@ -1,4 +1,4 @@
-![Uzyznieni](Assets/Mockup1.png)
+![Uzyznieni](Mockups/Mockup1.png)
 
 - Educate about proper composting
 teach through play.
@@ -11,5 +11,5 @@ combat harmful stereotypes about composting.
 - Offer real benefits of the challenge
 communicate the benefits of composting, also on a wider scale (e.g. biofuels) 
 
-![Uzyznieni](Assets/Mockup2.png)
+![Uzyznieni](Mockups/Mockup2.png)
 

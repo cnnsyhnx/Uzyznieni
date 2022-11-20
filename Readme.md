@@ -11,5 +11,5 @@ combat harmful stereotypes about composting.
 - Offer real benefits of the challenge
 communicate the benefits of composting, also on a wider scale (e.g. biofuels) 
 
-![Uzyznieni](Mockups/Mockup2.png)
+![Uzyznieni](Mockups/Mockup2.jpg)
 

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tabbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onl1ner/TabBar.git",
+      "state" : {
+        "revision" : "bb9ef2de16b6b1a9d0c893c74cd6fa8ea80affd6",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}

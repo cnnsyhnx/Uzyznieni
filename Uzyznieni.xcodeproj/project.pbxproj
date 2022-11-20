@@ -243,6 +243,7 @@
 		8349A8B32929442200D5B9C2 = {
 			isa = PBXGroup;
 			children = (
+				8349A8C32929442300D5B9C2 /* Assets.xcassets */,
 				83E72E4F292A3F660092FE12 /* Readme.md */,
 				8365D6FA29297F6300835F25 /* Fonts */,
 				8349A90C29296D5B00D5B9C2 /* TabBarViews */,
@@ -270,7 +271,6 @@
 			children = (
 				8365D74329297F9E00835F25 /* Info.plist */,
 				8349A8BF2929442200D5B9C2 /* UzyznieniApp.swift */,
-				8349A8C32929442300D5B9C2 /* Assets.xcassets */,
 				8349A8C52929442300D5B9C2 /* Preview Content */,
 			);
 			path = Uzyznieni;

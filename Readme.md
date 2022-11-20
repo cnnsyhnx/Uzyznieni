@@ -1,7 +1,7 @@
 ![Uzyznieni](Mockups/Mockup1.png)
 
 
-##Main functionalities: 
+## Main functionalities: 
 
 - For activities and challenges, the user receives badges and points that can be exchanged for rewards. 
 
@@ -15,10 +15,9 @@ The challenge stages conclude with a mini-game or quiz - through gamification me
 
 - The map includes points where you can give away compost or bio-waste you have produced and cannot use yourself.
 
-
 ![Uzyznieni](Mockups/Mockup2.jpg)
 
-##What do we aim?
+## What do we aim?
 
 ###Based on the research, we selected our priorities. The app is intended to:
 

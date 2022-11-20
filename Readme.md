@@ -19,7 +19,7 @@ The challenge stages conclude with a mini-game or quiz - through gamification me
 
 ## What do we aim?
 
-###Based on the research, we selected our priorities. The app is intended to:
+- Based on the research, we selected our priorities. The app is intended to:
 
 - Educate about proper composting
 teach through play.
